@@ -2,7 +2,7 @@
   "name": "deploy-to-heroku-private-test-2",
   "version": "1.0.0",
   "engines": {
-    "node": "17.3.0"
+    "node": "16.5.0"
   },
   "description": "",
   "main": "server.js",
